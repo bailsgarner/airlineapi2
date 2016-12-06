@@ -8,7 +8,7 @@ The Airline Resource provides information pertaining to the airline name and own
 # Functions  
 The information provided by this resource is as follows:  
 - **Airline Name:** The name associated with the airline.  
-- **Airline Owner:** The name of the airline owner.
+- **Airline Owner:** The name of the airline owner.  
 # Use  
 The resource can be accessed an used through a URL in the following format:  
   
