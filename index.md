@@ -1,22 +1,24 @@
 ---
 layout: default
+Title: Home
 ---
 
-# Airline API
+**Airline API**
 
-The Airline API features functions that benefit a small airline. Within the documentation site, each function will be documented with an overview and additional function specifications.  
+## Project Overview
+		 
+This site is dedicated to providing information regarding the development of a program for coordinating small airlines 
 
-The following functions will be included within the API; the pending functions are noted with their release date. 
+The Airline API features functions that benefit a small airline. Within the documentation site, each function will be documented with an overview and additional function specifications.
 
-- Flight Information  
-- Airport Information  
-- Pilot Information  
-- Airline Information  
-- Scheduling Flights  **(Spring 2017)**  
-- Plane Information and Scheduling **(Spring 2017)**
+### API Components: 
+	
+1.	[AirlineResource](/documents/AirlineResource.md)
+	
+2.	[AirportAPI](/documents/AirportAPI.md)
 
-<div class="home">
-</div>
+3.	[FlightResource](/documents/FlightResource.md)
 
 
-  
+
+![](/old_vintage_airplane_hd_wallpaper.jpg)
